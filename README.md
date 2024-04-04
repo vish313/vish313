@@ -6,6 +6,10 @@
 
 ⚡ Looking for opportunities.
 
+
+💻 Tech Stack:
+! Python MicrosoftSQLServer MySQL NumPy Pandas Matplotlib Power Bi
+
 <!---
 vish313/vish313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
