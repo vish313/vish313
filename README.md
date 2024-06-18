@@ -8,9 +8,8 @@
 
 
 💻 Tech Stacks:
-Python 
-MicrosoftSQLServer 
-MySQL NumPy Pandas Matplotlib 
+Python (NumPy Pandas Matplotlib)
+MySQL 
 Power Bi
 MS-Excel
 
